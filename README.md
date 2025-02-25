@@ -1,2 +1,2 @@
 # hello-world
-This is to practice Github flow
+I'm Genesis Martinez, a digital media and marketing professional based in New York, proudly Dominican, with hands-on experience in program coordination, data intake, social media marketing, and web development. I recently graduated with a Bachelor's degree in Media Studies, Business, and a minor in Sociology from Hunter College. I blend my technical skills in HTML, CSS, and Adobe tools with a passion for inspiring future professionals—and I'm eager to pursue sports media/marketing.
